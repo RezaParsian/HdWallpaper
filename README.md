@@ -1,4 +1,4 @@
-# hdwallpaper
+# HD Wallpaper
 
 ## Project setup
 ```
